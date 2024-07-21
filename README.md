@@ -27,5 +27,5 @@ python ahrs_mpu9250.py
 Here is the related projects
 
 [AHRS: Attitude and Heading Reference Systems](https://ahrs.readthedocs.io/)
-[https://ieeexplore.ieee.org/document/10589761](https://ieeexplore.ieee.org/document/10589761)
+[IMU-Based Motion Capture Using Madgwick Filter with 3D Visualization for Robot Teleoperations](https://ieeexplore.ieee.org/document/10589761)
 [Development of a Low-Cost Manipulator for Wireless Control from Upper Limb Motion Capture System](https://ieeexplore.ieee.org/document/10589750)
